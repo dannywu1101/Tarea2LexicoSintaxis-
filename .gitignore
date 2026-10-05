@@ -10,3 +10,8 @@ calc
 
 # macOS
 .DS_Store
+
+# build
+launch.json
+settings.json
+c_cpp_properties.json
