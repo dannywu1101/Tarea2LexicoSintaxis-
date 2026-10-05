@@ -1,0 +1,12 @@
+# Archivos generados por yacc y lex (se recrean con "make")
+y.tab.c
+y.tab.h
+y.output
+lex.yy.c
+
+# Ejecutable y archivos objeto
+calc
+*.o
+
+# macOS
+.DS_Store
